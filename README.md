@@ -24,6 +24,11 @@ for [offline](docs/html/index.html) reading.
 You can contribute to the documentation by submitting improvements to
 [Cisco-Talos/clamav-documentation](https://github.com/Cisco-Talos/clamav-documentation)
 
+## What's new?
+
+This fork (is going to) has small python based webserver exposing endpoints so that services can check the health and liveness of the ClamAV instance through REST calls. If you want to find the original project 👉 [Original Cisco-Talos ClamAV](https://github.com/Cisco-Talos/clamav-docker/tree/main/clamav)
+
+
 ## ClamAV News
 
 For information about the features in this and prior releases, read
